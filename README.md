@@ -1,4 +1,4 @@
-#Java assignment
+<h1>Java assignment</h1>
 
 The program can be run by the following steps:
 1. Download Java JDK 
